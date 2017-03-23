@@ -64,12 +64,13 @@
 
 /* height/weight/birthdate */
 .five {
-	width: 16%;
+	width: 23%;
 	height: 41.5%;
 	background-color: #d1d2d4;
 	position: absolute;
 	bottom: 10px;
-	right: 340px;
+	left: 700px;
+/*	right: 335px;*/
 }
 
 .height {
