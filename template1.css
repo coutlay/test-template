@@ -1,0 +1,283 @@
+@font-face {
+    font-family:'Varsity Regular';
+    src: url(varsity.ttf);
+}
+
+/* first photo */
+.one {
+	width: 32%;
+	height: 90%;
+	position: absolute;	
+}
+
+.baseball {
+	width: 100%;
+}
+
+
+/* second photo */
+.two {
+	position: absolute;
+	left: 430px;
+	width: 20%;
+}
+
+.smile {
+	width: 90%;
+}
+
+
+/* name */
+.three {
+	width: 45%;
+	height: 55%;
+	background-color: red;
+	position: absolute;
+	right: 25px;
+}
+
+.name {
+	font-family:'Varsity Regular';
+	font-size: 130px;
+	text-align: center;
+	position: relative;
+	bottom: 100px;
+}
+
+/* address box */
+.four {
+	width: 23%;
+	height: 41.5%;
+	background-color: #d1d2d4;
+	position: absolute;
+	bottom: 10px;
+	left: 425px;
+}
+
+.address {
+	font-size: 20px;
+	position: relative;
+	left: 20px;
+	width: 90%;
+}
+
+/* height/weight/birthdate */
+.five {
+	width: 16%;
+	height: 41.5%;
+	background-color: #d1d2d4;
+	position: absolute;
+	bottom: 10px;
+	right: 340px;
+}
+
+.height {
+	font-size: 20px;
+	position: relative;
+	left: 20px;
+	width: 80%;
+}
+
+/* school/gpa */
+.six {
+	width: 23%;
+	height: 41.5%;
+	background-color: #d1d2d4;
+	position: absolute;
+	bottom: 10px;
+	right: 25px;
+}
+
+.varsity {
+	font-size: 20px;
+	position: relative;
+	left: 20px;
+	width: 90%;
+}
+
+/* divider */
+.seven {
+	width: 99%;
+	height: 12%;
+	background-color: #d1d2d4;
+	position: absolute;
+	top: 630px;
+}
+
+.travel {
+	font-size: 20px;
+	text-align: center;
+	position: relative;
+	top: 5px;
+}
+
+/* about me */
+.eight {
+	width: 50%;
+	height: 30%;
+	background-color: #d1d2d4;
+	position: absolute;
+	top: 720px;
+}
+
+.about {
+	font-size: 15px;
+	position: relative;
+	top: -80px;
+	left: 20px;
+	width: 90%;
+}
+
+.me {
+	font-family:'Varsity Regular';
+	font-size: 50px;
+	text-align: center;
+	position: relative;
+	top: -40px;
+}
+
+/* come watch me */
+.nine {
+	width: 50%;
+	height: 45%;
+	background-color: #d1d2d4;
+	position: absolute;
+	top: 920px;
+}
+
+.watch {
+	font-family:'Varsity Regular';
+	font-size: 50px;
+	text-align: center;
+	position: relative;
+	top: -40px;
+}
+
+.games {
+	font-size: 15px;
+	position: relative;
+	top: -80px;
+	left: 20px;
+	width: 90%;
+}
+
+/* select teams */
+.ten {
+	width: 50%;
+	height: 28%;
+	background-color: #d1d2d4;
+	position: absolute;
+	top: 1215px;
+}
+
+.select {
+	font-family:'Varsity Regular';
+	font-size: 50px;
+	text-align: center;
+	position: relative;
+	top: -40px;
+}
+
+.teams {
+	font-size: 15px;
+	position: relative;
+	top: -80px;
+	left: 20px;
+	width: 90%;
+}
+
+/* stats */
+.eleven {
+	width: 48%;
+	height: 20%;
+	background-color: #d1d2d4;
+	position: absolute;
+	top: 720px;
+	right: 5px;
+}
+
+.stats {
+	font-family:'Varsity Regular';
+	font-size: 50px;
+	text-align: center;
+	position: relative;
+	top: -40px;
+}
+
+/* accomplishments */
+.twelve {
+	width: 48%;
+	height: 32%;
+	background-color: #d1d2d4;
+	position: absolute;
+	top: 860px;
+	right: 5px;
+}
+
+.good {
+	font-family:'Varsity Regular';
+	font-size: 50px;
+	text-align: center;
+	position: relative;
+	top: -40px;
+}
+
+.accomplishments {
+	font-size: 15px;
+	position: relative;
+	top: -80px;
+	left: 20px;
+	width: 90%;
+}
+
+/* camps attended */
+.thirteen {
+	width: 48%;
+	height: 33%;
+	background-color: #d1d2d4;
+	position: absolute;
+	top: 1075px;
+	right: 5px;
+}
+
+.attend {
+	font-family:'Varsity Regular';
+	font-size: 50px;
+	text-align: center;
+	position: relative;
+	top: -40px;
+}
+
+.camps {
+	font-size: 15px;
+	position: relative;
+	top: -80px;
+	left: 20px;
+	width: 90%;
+}
+
+/* website */
+.fourteen {
+	width: 48%;
+	height: 17%;
+	background-color: #d1d2d4;
+	position: absolute;
+	top: 1290px;
+	right: 5px;
+}
+
+.online {
+	font-family:'Varsity Regular';
+	font-size: 50px;
+	text-align: center;
+	position: relative;
+	top: -40px;
+}
+
+.website {
+	font-size: 15px;
+	position: relative;
+	top: -80px;
+	left: 20px;
+	width: 90%;
+}
