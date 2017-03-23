@@ -16,11 +16,12 @@
 
 
 /* second photo */
-.two {
+/*.two {
 	position: absolute;
 	left: 430px;
 	width: 20%;
 }
+*/
 
 .smile {
 	width: 90%;
@@ -29,7 +30,7 @@
 
 /* name */
 .three {
-	width: 45%;
+	width: 65%;
 	height: 55%;
 	background-color: red;
 	position: absolute;
